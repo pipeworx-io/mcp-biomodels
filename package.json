@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-biomodels",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "BioModels — the public repository of curated, executable mathematical models of biological systems (SBML, CellML, BioPAX and more), searchable by pathway, disease, organism, gene or author, with the model files themselves and the paper each model came from.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "biomodels",
     "gatewaySlug": "biomodels",
-    "sourceHash": "v1-d5260f459541cb3db09c6b2eb31a652261e661f2c36ff6b8d42dfc9b8900fe6e",
-    "sourceCommit": "4277282d72f9bf55e548b3799aaf737baf22152f"
+    "sourceHash": "v1-1a84da48f1117eac020199da1705160c62ad42d5e0515bb0042bced37a1d54a3",
+    "sourceCommit": "5cb09714e895571153f3d9663c36ff0f140cadd6"
   }
 }
